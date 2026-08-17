@@ -31,41 +31,41 @@
 **Entregable:** repositorio online con primer commit visible.
 
 ## Dia 2 - Entorno Python reproducible
-- [ ] Entender `venv`, `pip`, interprete, paquete y dependencia.
-- [ ] Crear `.venv` en `E:\Proyectos\football-match-analysis`.
-- [ ] Seleccionar el interprete correcto en VS Code.
-- [ ] Instalar Pandas, Matplotlib, mplsoccer y Jupyter dentro del entorno.
-- [ ] Registrar las dependencias del proyecto.
+- [x] Entender `venv`, `pip`, interprete, paquete y dependencia.
+- [x] Crear `.venv` en `E:\Proyectos\football-match-analysis`.
+- [x] Seleccionar el interprete correcto en VS Code.
+- [x] Instalar Pandas, Matplotlib, mplsoccer y Jupyter dentro del entorno.
+- [x] Registrar las dependencias del proyecto.
 
 **Entregable:** entorno aislado y reproducible funcionando.
 
 ## Dia 3 - Python I: variables y tipos
-- [ ] Variables.
-- [ ] `str`, `int`, `float`, `bool`.
-- [ ] `print()`.
-- [ ] Operadores basicos.
-- [ ] Modelar equipos, goles, minutos, tiros y xG.
+- [x] Variables.
+- [x] `str`, `int`, `float`, `bool`.
+- [x] `print()`.
+- [x] Operadores basicos.
+- [x] Modelar equipos, goles, minutos, tiros y xG.
 
 **Entregable:** ejercicios de Python I aplicados al futbol + commit.
 
 ## Dia 4 - Python II: listas y diccionarios
-- [ ] Listas e indices.
-- [ ] Diccionarios, claves y valores.
-- [ ] Estructuras anidadas.
-- [ ] Modelar planteles y estadisticas de jugadores.
+- [x] Listas e indices.
+- [x] Diccionarios, claves y valores.
+- [x] Estructuras anidadas.
+- [x] Modelar planteles y estadisticas de jugadores.
 
 **Entregable:** mini dataset en memoria de jugadores.
 
 ## Dia 5 - Python III: condiciones
-- [ ] Comparaciones y booleanos.
-- [ ] `if`, `elif`, `else`.
-- [ ] `and`, `or`, `not`.
-- [ ] Crear reglas simples para clasificar rendimientos.
+- [x] Comparaciones y booleanos.
+- [x] `if`, `elif`, `else`.
+- [x] `and`, `or`, `not`.
+- [x] Crear reglas simples para clasificar rendimientos.
 
 **Entregable:** decisiones futbolisticas simples basadas en metricas.
 
 ## Dia 6 - Python IV: bucles y funciones
-- [ ] `for`.
+- [x] `for`.
 - [ ] Funciones.
 - [ ] Parametros.
 - [ ] `return`.
