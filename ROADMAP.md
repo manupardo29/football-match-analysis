@@ -22,11 +22,11 @@
 **Definicion de terminado:** repo local + GitHub sincronizados, entorno virtual listo, dependencias controladas y mini analisis sobre datos ficticios.
 
 ## Dia 1 - Repositorio y primer historial
-- [ ] Entender working directory, staging, commit y repositorio local/remoto.
-- [ ] Crear `README.md` y `.gitignore`.
-- [ ] Hacer el primer commit.
-- [ ] Crear el repo remoto en GitHub y hacer el primer push.
-- [ ] Anotar con tus palabras la diferencia entre Git y GitHub.
+- [x] Entender working directory, staging, commit y repositorio local/remoto.
+- [x] Crear `README.md` y `.gitignore`.
+- [x] Hacer el primer commit.
+- [x] Crear el repo remoto en GitHub y hacer el primer push.
+- [x] Anotar con tus palabras la diferencia entre Git y GitHub.
 
 **Entregable:** repositorio online con primer commit visible.
 
