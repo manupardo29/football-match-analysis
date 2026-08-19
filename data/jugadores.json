@@ -1,0 +1,38 @@
+[
+  {
+    "jugador": {
+      "nombre": "Messi",
+      "id": 10
+    },
+    "equipo": {
+      "nombre": "Argentina",
+      "id": 1
+    },
+    "tiros": 4,
+    "xg": 0.82
+  },
+  {
+    "jugador": {
+      "nombre": "Alvarez",
+      "id": 9
+    },
+    "equipo": {
+      "nombre": "Argentina",
+      "id": 1
+    },
+    "tiros": 2,
+    "xg": 0.14
+  },
+  {
+    "jugador": {
+      "nombre": "Luis Diaz",
+      "id": 7
+    },
+    "equipo": {
+      "nombre": "Colombia",
+      "id": 2
+    },
+    "tiros": 2,
+    "xg": 0.20
+  }
+]
