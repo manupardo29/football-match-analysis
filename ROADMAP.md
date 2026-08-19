@@ -149,10 +149,10 @@
 - [x] Traducir preguntas futbolisticas a consultas de datos.
 - [x] Tiros.
 - [x] xG.
-- [ ] Pases.
-- [ ] Jugadores.
-- [ ] Eventos principales.
-- [ ] Commit de cierre semanal.
+- [x] Pases.
+- [x] Jugadores.
+- [x] Eventos principales.
+- [x] Commit de cierre semanal.
 
 **Entregable:** resumen exploratorio del partido.
 
@@ -165,35 +165,35 @@
 **Definicion de terminado:** analisis final documentado con visualizaciones, conclusiones, codigo ordenado y README profesional en GitHub.
 
 ## Dia 15 - Tiros y xG
-- [ ] Entender xG.
+- [x] Entender xG.
 - [x] Volumen vs calidad de ocasiones.
-- [ ] Agregar xG por equipo y jugador.
-- [ ] Extraer primeras conclusiones.
+- [x] Agregar xG por equipo y jugador.
+- [x] Extraer primeras conclusiones.
 
 **Entregable:** tabla y conclusiones de finalizacion.
 
 ## Dia 16 - Matplotlib
-- [ ] Figura y axes.
-- [ ] Scatter.
-- [ ] Barras.
-- [ ] Titulos y etiquetas.
-- [ ] Exportar graficos.
+- [x] Figura y axes.
+- [x] Scatter.
+- [x] Barras.
+- [x] Titulos y etiquetas.
+- [x] Exportar graficos.
 
 **Entregable:** primeras figuras en `outputs/`.
 
 ## Dia 17 - Cancha y coordenadas
-- [ ] Sistema de coordenadas StatsBomb.
-- [ ] Fundamentos de mplsoccer.
-- [ ] Dibujar una cancha.
-- [ ] Ubicar eventos reales correctamente.
+- [x] Sistema de coordenadas StatsBomb.
+- [x] Fundamentos de mplsoccer.
+- [x] Dibujar una cancha.
+- [x] Ubicar eventos reales correctamente.
 
 **Entregable:** primera visualizacion espacial validada.
 
 ## Dia 18 - Shot map profesional
-- [ ] Posicion de tiros.
-- [ ] Tamano de marcador segun xG.
-- [ ] Etiquetas y legibilidad.
-- [ ] Comparar Argentina y Colombia.
+- [x] Posicion de tiros.
+- [x] Tamano de marcador segun xG.
+- [x] Etiquetas y legibilidad.
+- [x] Comparar Argentina y Colombia.
 
 **Entregable:** shot map final listo para el README.
 
