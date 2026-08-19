@@ -66,10 +66,10 @@
 
 ## Dia 6 - Python IV: bucles y funciones
 - [x] `for`.
-- [ ] Funciones.
-- [ ] Parametros.
-- [ ] `return`.
-- [ ] Crear funciones como tiros por 90 y resumen de jugador.
+- [x] Funciones.
+- [x] Parametros.
+- [x] `return`.
+- [x] Crear funciones como tiros por 90 y resumen de jugador.
 
 **Entregable:** primeras funciones reutilizables.
 
@@ -91,53 +91,53 @@
 **Definicion de terminado:** notebook capaz de cargar Argentina vs Colombia, explorar eventos y responder preguntas basicas con Pandas.
 
 ## Dia 8 - Jupyter Notebook
-- [ ] Entender celdas de codigo y Markdown.
-- [ ] Entender kernel y orden de ejecucion.
-- [ ] Crear el notebook principal.
-- [ ] Documentar el analisis dentro del propio notebook.
+- [x] Entender celdas de codigo y Markdown.
+- [x] Entender kernel y orden de ejecucion.
+- [x] Crear el notebook principal.
+- [x] Documentar el analisis dentro del propio notebook.
 
 **Entregable:** primer `.ipynb` limpio y versionado.
 
 ## Dia 9 - Formatos de datos
-- [ ] Dataset, registro, fila y columna.
-- [ ] CSV.
-- [ ] JSON.
-- [ ] Datos estructurados.
-- [ ] Crear y leer pequenos datasets futbolisticos.
+- [x] Dataset, registro, fila y columna.
+- [x] CSV.
+- [x] JSON.
+- [x] Datos estructurados.
+- [x] Crear y leer pequenos datasets futbolisticos.
 
 **Entregable:** ejercicios de lectura y carga de formatos.
 
 ## Dia 10 - Pandas I: DataFrame
-- [ ] `DataFrame` y `Series`.
-- [ ] `.head()`.
-- [ ] `.shape`.
-- [ ] `.columns`.
-- [ ] `.dtypes`.
-- [ ] Indice.
+- [x] `DataFrame` y `Series`.
+- [x] `.head()`.
+- [x] `.shape`.
+- [x] `.columns`.
+- [x] `.dtypes`.
+- [x] Indice.
 
 **Entregable:** inspeccion estructurada de una tabla de eventos.
 
 ## Dia 11 - Pandas II: seleccionar y filtrar
-- [ ] Seleccionar columnas.
-- [ ] Filtrar filas.
-- [ ] Mascaras booleanas.
-- [ ] Valores nulos.
-- [ ] Aislar equipo, jugador y tipo de evento.
+- [x] Seleccionar columnas.
+- [x] Filtrar filas.
+- [x] Mascaras booleanas.
+- [x] Valores nulos.
+- [x] Aislar equipo, jugador y tipo de evento.
 
 **Entregable:** consultas reproducibles sobre eventos.
 
 ## Dia 12 - Pandas III: resumir datos
-- [ ] `.value_counts()`.
-- [ ] `.groupby()`.
-- [ ] `.sort_values()`.
-- [ ] `count`, `sum`, `mean`.
-- [ ] Crear columnas nuevas.
+- [x] `.value_counts()`.
+- [x] `.groupby()`.
+- [x] `.sort_values()`.
+- [x] `count`, `sum`, `mean`.
+- [x] Crear columnas nuevas.
 
 **Entregable:** primer resumen estadistico propio.
 
 ## Dia 13 - StatsBomb: datos reales
-- [ ] Competicion y temporada.
-- [ ] Partido.
+- [x] Competicion y temporada.
+- [x] Partido.
 - [ ] Evento.
 - [ ] Coordenadas.
 - [ ] Campos principales.
