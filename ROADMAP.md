@@ -138,17 +138,17 @@
 ## Dia 13 - StatsBomb: datos reales
 - [x] Competicion y temporada.
 - [x] Partido.
-- [ ] Evento.
-- [ ] Coordenadas.
-- [ ] Campos principales.
-- [ ] Cargar Copa America 2024 y localizar Argentina vs Colombia.
+- [x] Evento.
+- [x] Coordenadas.
+- [x] Campos principales.
+- [x] Cargar Copa America 2024 y localizar Argentina vs Colombia.
 
 **Entregable:** eventos reales cargados + diccionario inicial de campos.
 
 ## Dia 14 - Exploracion del partido
-- [ ] Traducir preguntas futbolisticas a consultas de datos.
-- [ ] Tiros.
-- [ ] xG.
+- [x] Traducir preguntas futbolisticas a consultas de datos.
+- [x] Tiros.
+- [x] xG.
 - [ ] Pases.
 - [ ] Jugadores.
 - [ ] Eventos principales.
@@ -166,7 +166,7 @@
 
 ## Dia 15 - Tiros y xG
 - [ ] Entender xG.
-- [ ] Volumen vs calidad de ocasiones.
+- [x] Volumen vs calidad de ocasiones.
 - [ ] Agregar xG por equipo y jugador.
 - [ ] Extraer primeras conclusiones.
 
