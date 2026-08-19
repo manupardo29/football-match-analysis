@@ -74,11 +74,11 @@
 **Entregable:** primeras funciones reutilizables.
 
 ## Dia 7 - Mini desafio de cierre
-- [ ] Integrar los conceptos de la semana.
-- [ ] Resolver un analisis sobre datos ficticios sin copiar una solucion completa.
-- [ ] Leer y corregir errores simples.
-- [ ] Actualizar README.
-- [ ] Commit de cierre semanal.
+- [x] Integrar los conceptos de la semana.
+- [x] Resolver un analisis sobre datos ficticios sin copiar una solucion completa.
+- [x] Leer y corregir errores simples.
+- [x] Actualizar README.
+- [x] Commit de cierre semanal.
 
 **Entregable:** mini analisis terminado y semana 1 documentada.
 
